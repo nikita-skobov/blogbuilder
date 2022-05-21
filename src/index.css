@@ -29,3 +29,7 @@ code {
   width: 50%;
   height: 100%;
 }
+
+.scroll1 {
+  overflow-y: scroll !important;
+}

@@ -54,7 +54,7 @@ function App() {
                     setMarkdownText(rendered)
                 }} />
             </div>
-            <div className="l1">
+            <div className="l1 scroll1">
                 <div className="markdown-body">
                     <Markdown html={markdowntext} />
                 </div>
